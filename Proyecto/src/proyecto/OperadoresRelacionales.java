@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejemplos;
+package Proyecto;
 
 /**
  *
@@ -13,7 +13,7 @@ public class OperadoresRelacionales {
 
     public static void main(String[] args) {
         int valorA = 10;
-        int valorB = 2;
+        int valorB = 10;
 
         System.out.printf("Igualdad: %d == %d = %s\n", valorA, valorB,
                 valorA == valorB);
